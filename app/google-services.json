@@ -1,0 +1,94 @@
+{
+  "project_info": {
+    "project_number": "481649667336",
+    "firebase_url": "https://testnotifyfirebase.firebaseio.com",
+    "project_id": "testnotifyfirebase",
+    "storage_bucket": "testnotifyfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481649667336:android:e7d1259edcb0dad7",
+        "android_client_info": {
+          "package_name": "com.egco428.notifyfirebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481649667336-9ksev39pl6t2rhve4b4t5n1p8j1egjp0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.egco428.notifyfirebasetest",
+            "certificate_hash": "E143803AB01E009BC3266F04AF9CC13D1E1921EE"
+          }
+        },
+        {
+          "client_id": "481649667336-b63qlicvcd59cor7l7eikpp17kugeb3g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.egco428.notifyfirebasetest",
+            "certificate_hash": "F86DFB8530BCC4E9BCF654480561B084F7544052"
+          }
+        },
+        {
+          "client_id": "481649667336-1h4te2rk62t7d50fieas02ppse2o9kpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGkzbDrjLr9I7M1JV6kbM5jDo6GmHflwI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481649667336-1h4te2rk62t7d50fieas02ppse2o9kpq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481649667336:android:b8e700c1373437cc",
+        "android_client_info": {
+          "package_name": "com.egco428.firebasenotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481649667336-1h4te2rk62t7d50fieas02ppse2o9kpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGkzbDrjLr9I7M1JV6kbM5jDo6GmHflwI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
